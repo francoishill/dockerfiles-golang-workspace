@@ -3,5 +3,5 @@
 FROM golang:1.5.1-wheezy
 MAINTAINER Francois Hill <francoishill11@gmail.com>
 
-WORKDIR /go
+WORKDIR /go/src
 EXPOSE 80
